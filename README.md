@@ -1,7 +1,7 @@
 ### Olá Sou o RafaelDevProjects👋
 
 - 🌱 Estudando Pythom, HTML5, CSS
-- 🤔 busco ajudar a todos os devs
+- 🤔 busco ajudar todos os devs
 - 💬 Pergunte-me sobre programação
 - 😄 Pronome: Ele/Dele.
 - ⚡ Fato divertido: sempre aprendendo
