@@ -35,6 +35,12 @@
 <a href="https://www.linkedin.com/in/rafael-de-almeida-3953a4236/" target="_blank"><img alt="Rafael lINKEDIN" width="100px"  src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white****
 </a>
  </div>
+</div>
+  
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+ ![snake gif](https://github.com/RafaelDevProjects/RafaelDevProjects/blob/output/github-contribution-grid-snake.svg)
+ 
+  <div> 
  
 
 
