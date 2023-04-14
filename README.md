@@ -10,8 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDevProjects&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</a>
-<a href="https://www.linkedin.com/in/ezequiel-mathias-104092227" target="_blank"><img alt="Ezequiel LinkedIN" width="26px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 
