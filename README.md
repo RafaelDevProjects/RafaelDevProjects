@@ -20,10 +20,13 @@
   <img align="center" alt=pythom height="100" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <i class="devicon-python-plain"></i>
+    
 </div>
-  
+  <div align="center">
 </a>
-<a href="mailto: rafaasigoli1@gmail.com" target="_blank"><img alt="Ezequiel LinkedIN" width="26px"  src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
+<a href="mailto: rafaasigoli1@gmail.com" target="_blank"><img alt="Rafael Email" width="80px"  src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
+</a>
+<a href="https://www.linkedin.com/in/rafael-de-almeida-3953a4236/" target="_blank"><img alt="Rafael lINKEDIN" width="100px"  src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white****
 </a>
  </div>
  
