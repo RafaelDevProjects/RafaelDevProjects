@@ -40,8 +40,6 @@
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
  
  <div> 
-  
-![snake gif](https://github.com/RafaelDevProjects/RafaeldevProjects/blob/output/github-contribution-grid-snake.svg)
  
 
 
