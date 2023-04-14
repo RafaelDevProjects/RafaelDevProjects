@@ -1,4 +1,7 @@
-### Olá Sou o RafaelDevProjects👋
+<div align="center" >
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=star+jedirs&size=35&pause=1000&color=FFFF00C&vCenter=true&width=700&height=70&lines=Olá+Eu+Sou+RafaelDev+um+Programador)](https://git.io/typing-svg)
+ </br>
 
 - 🌱 Estudando Pythom, HTML5, CSS
 - 🤔 busco ajudar todos os devs
