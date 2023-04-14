@@ -38,9 +38,10 @@
 </div>
   
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
- ![snake gif](https://github.com/RafaelDevProjects/RafaelDevProjects/blob/output/github-contribution-grid-snake.svg)
  
-  <div> 
+ <div> 
+  
+![snake gif](https://github.com/RafaelDevProjects/RafaeldevProjects/blob/output/github-contribution-grid-snake.svg)
  
 
 
