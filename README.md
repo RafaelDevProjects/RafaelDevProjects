@@ -21,4 +21,11 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <i class="devicon-python-plain"></i>
 </div>
+  
+</a>
+<a href="mailto: rafaasigoli1@gmail.com" target="_blank"><img alt="Ezequiel LinkedIN" width="26px"  src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
+</a>
+ </div>
+ 
+
 
