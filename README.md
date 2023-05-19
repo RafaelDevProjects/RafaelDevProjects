@@ -1,18 +1,19 @@
 <div align="center" >
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=star+jedirs&size=35&pause=1000&color=FFFF00C&vCenter=true&width=700&height=70&lines=Eu+sou+Rafael+um+Programador)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=star+jedirs&size=35&pause=1000&color=FFFF00C&vCenter=true&width=750&height=70&lines=Eu+sou+Rafael+um+Programador+full+stack)](https://git.io/typing-svg)
  </br>
 
-- 🌱 Estudando Pythom, HTML5, CSS
-- 🤔 busco ajudar todos os devs
-- 💬 Pergunte-me sobre programação
-- 😄 Pronome: Ele/Dele.
-- ⚡ Fato divertido: sempre aprendendo
+🌱 Estudando Pythom, HTML5, CSS
+<br>
+🤔 busco ajudar todos os devs
+<br>
+💬 Pergunte-me sobre programação
+<br>
 
 <div align="center">
   <a href="https://github.com/RafaelDevProjects">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelDevProjects&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDevProjects&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelDevProjects&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDevProjects&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
