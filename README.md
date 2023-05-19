@@ -1,6 +1,6 @@
 <div align="center" >
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=star+jedirs&size=35&pause=1000&color=FFFF00C&vCenter=true&width=700&height=70&lines=Eu+sou+Rafael+Alemeida+Desenvolvedor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=star+jedirs&size=35&pause=1000&color=FFFF00C&vCenter=true&width=700&height=70&lines=Eu+sou+Rafael+um+Programador)](https://git.io/typing-svg)
  </br>
 
 - 🌱 Estudando Pythom, HTML5, CSS
