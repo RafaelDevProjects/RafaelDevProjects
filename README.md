@@ -8,7 +8,6 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="CSS3" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt=pythom height="100" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -16,7 +15,7 @@
   <i class="devicon-python-plain"></i>
 </div>
   <div align="center">
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/ac3a758edcfd7b303b53a54ddb7c574b.gif" width="200" height="200" border="0" alt="gift"
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/ac3a758edcfd7b303b53a54ddb7c574b.gif" width="200" height="200" border="0" alt="gift">
 <div/>
 </div>
   <div align="center">
