@@ -1,15 +1,5 @@
 <div align="center" >
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=star+jedirs&size=35&pause=1000&color=FFFF00C&vCenter=true&width=750&height=70&lines=Eu+sou+Rafael+um+Programador+full+stack)](https://git.io/typing-svg)
- </br>
-
-🌱 Estudando Pythom, HTML5, CSS
-<br>
-🤔 busco ajudar todos os devs
-<br>
-💬 Pergunte-me sobre programação
-<br>
-
 <div align="center">
   <a href="https://github.com/RafaelDevProjects">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelDevProjects&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,8 +7,8 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="CSS3" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt=pythom height="100" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
