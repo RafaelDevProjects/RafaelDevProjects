@@ -41,6 +41,7 @@ graph TD;
     Back-End-->GitHubActions;
     Back-End-->GitHub;
     Back-End-->API_GATEWAY;
+    Back-End-->JavaScript
     Containers-->docker;
     SQL-->PostgreSQL;
     SQL-->MySQL;
