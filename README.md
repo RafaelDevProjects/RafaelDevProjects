@@ -43,6 +43,8 @@ graph TD;
     Back-End-->API_GATEWAY;
     Back-End-->JavaScript
     JavaScript-->NodeJS
+    NodeJS-->Fastity;
+    NodeJS-->Express;
     Containers-->docker;
     SQL-->PostgreSQL;
     SQL-->MySQL;
