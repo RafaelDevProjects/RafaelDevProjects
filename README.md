@@ -50,6 +50,7 @@ graph TD;
     SQL-->MySQL;
     Python-->MachineLearrning;
     Python--> ProgrammingLogic;
+    Python--> Django;
 ```
 
 <p align="center">
