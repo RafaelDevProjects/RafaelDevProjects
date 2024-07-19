@@ -1,7 +1,7 @@
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=false&vCenter=false&width=1000&lines=Hello+there+👋;👋👋👋;)
 Meu nome é Rafael Sigoli, atualmente sou estudante e estou cursando Engenharia de Software na FIAP (Faculdade de Informática e Administração Paulista), estou no terceiro semestre da faculdade com previsão de termino em 2027.
 
-- 🌱 Atualmente estou estudando React, MySQL, Python e C#
+- 🌱 Atualmente estou estudando Java e C#
 - 📫 E-mail para contato : rafaasigoli1@gmail.com
 
  # 💻 Tech Stack
