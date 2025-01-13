@@ -17,6 +17,8 @@ Meu nome é Rafael Sigoli, atualmente sou estudante e estou cursando Engenharia 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="48" title="JAVA">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="48" title="Spring">
+ 
 <p/>
 
 # 🌐 Socials:
